@@ -1,4 +1,4 @@
-security_groups = [ "sg-0ad8ec6873fafd140" ]
+security_groups = [ "sg-00367da009690cd34" ]
 
 zone_id = "Z0345275C3S6UDSOR4CU"
 
