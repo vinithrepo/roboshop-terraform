@@ -1,3 +1,3 @@
-bucket         = "tf.state.test"
-key            = "prod/state.tf"
+bucket         = "sbucket83"
+key            = "dev/state.tf"
 region         = "us-east-1"
