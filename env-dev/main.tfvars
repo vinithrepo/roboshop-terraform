@@ -23,10 +23,10 @@ zone_id = "Z04190561TPDGJYVNCQTW" #Z0345275C3S6UDSOR4CU
       name = "cart"
       instance_type = "t3.micro"
     }
-#    redis = {
-#      name = "redis"
-#      instance_type = "t3.micro"
-#    }
+    redis = {
+      name = "redis"
+      instance_type = "t3.micro"
+    }
     mysql = {
       name = "mysql"
       instance_type = "t3.micro"
