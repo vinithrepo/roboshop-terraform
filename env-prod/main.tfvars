@@ -1,5 +1,5 @@
 security_groups = [ "sg-00367da009690cd34" ]
-ami_id  = "ami-0b4f379183e5706b9"
+ami_id  = "ami-0b4f379183e5706b9" #centos
 zone_id = "Z04190561TPDGJYVNCQTW" #Z0345275C3S6UDSOR4CU
 
 components = {
