@@ -1,6 +1,6 @@
 security_groups = [ "sg-00367da009690cd34" ]
-ami_id = "ami-09c813fb71547fc4f" #rhel
-
+#ami_id = "ami-09c813fb71547fc4f" #rhel
+#ami_id = "ami-09c813fb71547fc4f" #centos
 zone_id = "Z04190561TPDGJYVNCQTW" #Z0345275C3S6UDSOR4CU
 
  components = {

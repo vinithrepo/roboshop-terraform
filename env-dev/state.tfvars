@@ -1,3 +1,3 @@
 bucket         = "sbucket83"
-key            = "dev/state2.tf"
+key            = "dev/basic.tf"
 region         = "us-east-1"
